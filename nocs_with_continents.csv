@@ -1,0 +1,225 @@
+code,country,country_long,tag,note,continent
+AFG,Afghanistan,Afghanistan,afghanistan,P,Other
+AHO,Netherlands Antilles,Netherlands Antilles,netherlands-antilles,H,Other
+AIN,AIN,AIN,ain,P,Other
+ALB,Albania,Albania,albania,P,Europe
+ALG,Algeria,Algeria,algeria,P,Africa
+AND,Andorra,Andorra,andorra,P,Other
+ANG,Angola,Angola,angola,P,Other
+ANT,Antigua and Barbuda,Antigua and Barbuda,antigua-and-barbuda,P,Americas
+ARG,Argentina,Argentina,argentina,P,Americas
+ARM,Armenia,Armenia,armenia,P,Europe
+ARU,Aruba,Aruba,aruba,P,Other
+ASA,American Samoa,American Samoa,american-samoa,P,Other
+AUS,Australia,Australia,australia,P,Oceania
+AUT,Austria,Austria,austria,P,Europe
+AZE,Azerbaijan,Azerbaijan,azerbaijan,P,Asia
+BAH,Bahamas,Bahamas,bahamas,P,Americas
+BAN,Bangladesh,Bangladesh,bangladesh,P,Asia
+BAR,Barbados,Barbados,barbados,P,Other
+BDI,Burundi,Burundi,burundi,P,Africa
+BEL,Belgium,Belgium,belgium,P,Europe
+BEN,Benin,Benin,benin,P,Other
+BER,Bermuda,Bermuda,bermuda,P,Other
+BHU,Bhutan,Bhutan,bhutan,P,Other
+BIH,Bosnia & Herzegovina,Bosnia and Herzegovina,bosnia-and-herzegovina,P,Europe
+BIZ,Belize,Belize,belize,P,Other
+BLR,Belarus,Belarus,belarus,NP,Europe
+BOC,BOC,BOC,boc,H,Other
+BOL,Bolivia,Bolivia,bolivia,P,Americas
+BOT,Botswana,Botswana,botswana,P,Africa
+BRA,Brazil,Brazil,brazil,P,Americas
+BRN,Bahrain,Bahrain,bahrain,P,Asia
+BRU,Brunei Darussalam,Brunei Darussalam,brunei-darussalam,P,Other
+BUL,Bulgaria,Bulgaria,bulgaria,P,Europe
+BUR,Burkina Faso,Burkina Faso,burkina-faso,P,Africa
+CAF,Centr Afric Rep,Central African Republic,centr-afric-rep,P,Other
+CAM,Cambodia,Cambodia,cambodia,P,Other
+CAN,Canada,Canada,canada,P,Americas
+CAY,Cayman Islands,Cayman Islands,cayman-islands,P,Other
+CGO,Congo,Congo,congo,P,Other
+CHA,Chad,Chad,chad,P,Other
+CHI,Chile,Chile,chile,P,Americas
+CHN,China,People's Republic of China,china,P,Asia
+CIS,CIS,Commonwealth of Independent States,cis,H,Other
+CIV,Côte d'Ivoire,Côte d'Ivoire,cote-d-ivoire,P,Africa
+CMR,Cameroon,Cameroon,cameroon,P,Africa
+COD,DR Congo,Democratic Republic of the Congo,dr-congo,P,Other
+COK,Cook Islands,Cook Islands,cook-islands,P,Other
+COL,Colombia,Colombia,colombia,P,Americas
+COM,Comoros,Comoros,comoros,P,Africa
+COR,Korea,Korea,korea,H,Other
+CPV,Cabo Verde,Cabo Verde,cabo-verde,P,Africa
+CRC,Costa Rica,Costa Rica,costa-rica,P,Other
+CRO,Croatia,Croatia,croatia,P,Europe
+CUB,Cuba,Cuba,cuba,P,Americas
+CYP,Cyprus,Cyprus,cyprus,P,Europe
+CZE,Czechia,Czechia,czechia,P,Europe
+DEN,Denmark,Denmark,denmark,P,Europe
+DJI,Djibouti,Djibouti,djibouti,P,Africa
+DMA,Dominica,Dominica,dominica,P,Other
+DOM,Dominican Republic,Dominican Republic,dominican-republic,P,Americas
+ECU,Ecuador,Ecuador,ecuador,P,Americas
+EGY,Egypt,Egypt,egypt,P,Africa
+EOR,EOR,Refugee Olympic Team,eor,P,Other
+ERI,Eritrea,Eritrea,eritrea,P,Other
+ESA,El Salvador,El Salvador,el-salvador,P,Other
+ESP,Spain,Spain,spain,P,Europe
+EST,Estonia,Estonia,estonia,P,Europe
+ETH,Ethiopia,Ethiopia,ethiopia,P,Africa
+EUN,Unified Team,Unified Team,unified-team,H,Other
+FIJ,Fiji,Fiji,fiji,P,Oceania
+FIN,Finland,Finland,finland,P,Europe
+FRA,France,France,france,P,Europe
+FRG,FRG,Federal Republic of Germany,frg,H,Other
+FSM,Micronesia,Federated States of Micronesia,micronesia,P,Other
+GAB,Gabon,Gabon,gabon,P,Other
+GAM,Gambia,Gambia,gambia,P,Other
+GBR,Great Britain,Great Britain,great-britain,P,Europe
+GBS,Guinea-Bissau,Guinea-Bissau,guinea-bissau,P,Other
+GDR,German Dem. Republic,German Democratic Republic,german-dem--republic,H,Other
+GEO,Georgia,Georgia,georgia,P,Asia
+GEQ,Equatorial Guinea,Equatorial Guinea,equatorial-guinea,P,Other
+GER,Germany,Germany,germany,P,Europe
+GHA,Ghana,Ghana,ghana,P,Africa
+GRE,Greece,Greece,greece,P,Europe
+GRN,Grenada,Grenada,grenada,P,Americas
+GUA,Guatemala,Guatemala,guatemala,P,Other
+GUI,Guinea,Guinea,guinea,P,Other
+GUM,Guam,Guam,guam,P,Other
+GUY,Guyana,Guyana,guyana,P,Americas
+HAI,Haiti,Haiti,haiti,P,Americas
+HKG,"Hong Kong, China","Hong Kong, China",hong-kong--china,P,Asia
+HON,Honduras,Honduras,honduras,P,Other
+HUN,Hungary,Hungary,hungary,P,Europe
+INA,Indonesia,Indonesia,indonesia,P,Asia
+IND,India,India,india,P,Asia
+IOA,IOA,Independent Olympic Athletes,ioa,NP,Other
+IOP,IOP,Independent Olympic Participants,iop,H,Other
+IRI,IR Iran,Islamic Republic of Iran,ir-iran,P,Asia
+IRL,Ireland,Ireland,ireland,P,Europe
+IRQ,Iraq,Iraq,iraq,P,Asia
+ISL,Iceland,Iceland,iceland,P,Europe
+ISR,Israel,Israel,israel,P,Europe
+ISV,"Virgin Islands, US","Virgin Islands, US",virgin-islands--us,P,Other
+ITA,Italy,Italy,italy,P,Europe
+IVB,"Virgin Islands, B","Virgin Islands, British",virgin-islands--b,P,Other
+JAM,Jamaica,Jamaica,jamaica,P,Americas
+JOR,Jordan,Jordan,jordan,P,Asia
+JPN,Japan,Japan,japan,P,Asia
+KAZ,Kazakhstan,Kazakhstan,kazakhstan,P,Asia
+KEN,Kenya,Kenya,kenya,P,Africa
+KGZ,Kyrgyzstan,Kyrgyzstan,kyrgyzstan,P,Asia
+KIR,Kiribati,Kiribati,kiribati,P,Other
+KOR,Korea,Republic of Korea,korea,P,Asia
+KOS,Kosovo,Kosovo,kosovo,P,Other
+KSA,Saudi Arabia,Saudi Arabia,saudi-arabia,P,Other
+KUW,Kuwait,Kuwait,kuwait,P,Asia
+LAO,Lao PDR,Lao People's Democratic Republic,lao-pdr,P,Other
+LAT,Latvia,Latvia,latvia,P,Europe
+LBA,Libya,Libya,libya,P,Other
+LBN,Lebanon,Lebanon,lebanon,P,Other
+LBR,Liberia,Liberia,liberia,P,Other
+LCA,Saint Lucia,Saint Lucia,saint-lucia,P,Other
+LES,Lesotho,Lesotho,lesotho,P,Other
+LIE,Liechtenstein,Liechtenstein,liechtenstein,P,Other
+LTU,Lithuania,Lithuania,lithuania,P,Europe
+LUX,Luxembourg,Luxembourg,luxembourg,P,Europe
+MAD,Madagascar,Madagascar,madagascar,P,Other
+MAR,Morocco,Morocco,morocco,P,Africa
+MAS,Malaysia,Malaysia,malaysia,P,Asia
+MAW,Malawi,Malawi,malawi,P,Other
+MDA,Republic of Moldova,Republic of Moldova,republic-of-moldova,P,Europe
+MDV,Maldives,Maldives,maldives,P,Other
+MEX,Mexico,Mexico,mexico,P,Americas
+MGL,Mongolia,Mongolia,mongolia,P,Asia
+MHL,Marshall Islands,Marshall Islands,marshall-islands,P,Other
+MKD,North Macedonia,North Macedonia,north-macedonia,P,Europe
+MLI,Mali,Mali,mali,P,Other
+MLT,Malta,Malta,malta,P,Other
+MNE,Montenegro,Montenegro,montenegro,P,Europe
+MON,Monaco,Monaco,monaco,P,Other
+MOZ,Mozambique,Mozambique,mozambique,P,Other
+MRI,Mauritius,Mauritius,mauritius,P,Other
+MTN,Mauritania,Mauritania,mauritania,P,Africa
+MYA,Myanmar,Myanmar,myanmar,P,Other
+NAM,Namibia,Namibia,namibia,P,Other
+NCA,Nicaragua,Nicaragua,nicaragua,P,Other
+NED,Netherlands,Netherlands,netherlands,P,Europe
+NEP,Nepal,Nepal,nepal,P,Other
+NGR,Nigeria,Nigeria,nigeria,P,Africa
+NIG,Niger,Niger,niger,P,Other
+NOR,Norway,Norway,norway,P,Europe
+NRU,Nauru,Nauru,nauru,P,Other
+NZL,New Zealand,New Zealand,new-zealand,P,Oceania
+OAR,OAR,Olympic Athlete from Russia,oar,H,Other
+OMA,Oman,Oman,oman,P,Other
+PAK,Pakistan,Pakistan,pakistan,P,Asia
+PAN,Panama,Panama,panama,P,Americas
+PAR,Paraguay,Paraguay,paraguay,P,Other
+PER,Peru,Peru,peru,P,Americas
+PHI,Philippines,Philippines,philippines,P,Asia
+PLE,Palestine,Palestine,palestine,P,Other
+PLW,Palau,Palau,palau,P,Other
+PNG,Papua New Guinea,Papua New Guinea,papua-new-guinea,P,Oceania
+POL,Poland,Poland,poland,P,Europe
+POR,Portugal,Portugal,portugal,P,Europe
+PRK,DPR Korea,Democratic People's Republic of Korea,dpr-korea,P,Other
+PUR,Puerto Rico,Puerto Rico,puerto-rico,P,Americas
+QAT,Qatar,Qatar,qatar,P,Asia
+ROC,ROC,ROC,roc,H,Other
+ROT,ROT,Refugee Olympic Team,rot,H,Other
+ROU,Romania,Romania,romania,P,Europe
+RSA,South Africa,South Africa,south-africa,P,Africa
+RUS,Russian Federation,Russian Federation,russian-federation,NP,Other
+RWA,Rwanda,Rwanda,rwanda,P,Other
+SAM,Samoa,Samoa,samoa,P,Oceania
+SCG,Serbia & Montenegro,Serbia and Montenegro,serbia-and-montenegro,H,Other
+SEN,Senegal,Senegal,senegal,P,Africa
+SEY,Seychelles,Seychelles,seychelles,P,Other
+SGP,Singapore,Singapore,singapore,P,Other
+SKN,St Kitts and Nevis,Saint Kitts and Nevis,st-kitts-and-nevis,P,Other
+SLE,Sierra Leone,Sierra Leone,sierra-leone,P,Other
+SLO,Slovenia,Slovenia,slovenia,P,Europe
+SMR,San Marino,San Marino,san-marino,P,Europe
+SOL,Solomon Islands,Solomon Islands,solomon-islands,P,Oceania
+SOM,Somalia,Somalia,somalia,P,Other
+SRB,Serbia,Serbia,serbia,P,Europe
+SRI,Sri Lanka,Sri Lanka,sri-lanka,P,Asia
+SSD,South Sudan,South Sudan,south-sudan,P,Other
+STP,Sao Tome & Principe,Sao Tome and Principe,sao-tome-and-principe,P,Other
+SUD,Sudan,Sudan,sudan,P,Other
+SUI,Switzerland,Switzerland,switzerland,P,Europe
+SUR,Suriname,Suriname,suriname,P,Other
+SVK,Slovakia,Slovakia,slovakia,P,Europe
+SWE,Sweden,Sweden,sweden,P,Europe
+SWZ,Eswatini,Eswatini,eswatini,P,Other
+SYR,Syria,Syrian Arab Republic,syria,P,Other
+TAN,Tanzania,United Republic of Tanzania,tanzania,P,Other
+TCH,Czechoslovakia,Czechoslovakia,czechoslovakia,H,Other
+TGA,Tonga,Tonga,tonga,P,Other
+THA,Thailand,Thailand,thailand,P,Asia
+TJK,Tajikistan,Tajikistan,tajikistan,P,Asia
+TKM,Turkmenistan,Turkmenistan,turkmenistan,P,Asia
+TLS,Timor-Leste,Democratic Republic of Timor-Leste,timor-leste,P,Other
+TOG,Togo,Togo,togo,P,Africa
+TPE,Chinese Taipei,Chinese Taipei,chinese-taipei,P,Asia
+TTO,Trinidad and Tobago,Trinidad and Tobago,trinidad-and-tobago,P,Americas
+TUN,Tunisia,Tunisia,tunisia,P,Africa
+TUR,Türkiye,Türkiye,turkiye,P,Europe
+TUV,Tuvalu,Tuvalu,tuvalu,P,Other
+UAE,UA Emirates,United Arab Emirates,ua-emirates,P,Other
+UGA,Uganda,Uganda,uganda,P,Africa
+UKR,Ukraine,Ukraine,ukraine,P,Europe
+URS,USSR,USSR,ussr,H,Other
+URU,Uruguay,Uruguay,uruguay,P,Americas
+USA,United States,United States of America,united-states,P,Americas
+UZB,Uzbekistan,Uzbekistan,uzbekistan,P,Asia
+VAN,Vanuatu,Vanuatu,vanuatu,P,Oceania
+VEN,Venezuela,Venezuela,venezuela,P,Americas
+VIE,Vietnam,Vietnam,vietnam,P,Asia
+VIN,StVincent&Grenadines,St Vincent and the Grenadines,stvincentandgrenadines,P,Other
+YEM,Yemen,Yemen,yemen,P,Other
+YUG,Yugoslavia,The Federal Republic of Yugoslavia,yugoslavia,H,Other
+ZAM,Zambia,Zambia,zambia,P,Other
+ZIM,Zimbabwe,Zimbabwe,zimbabwe,P,Africa
